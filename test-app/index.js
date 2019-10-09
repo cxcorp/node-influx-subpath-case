@@ -1,4 +1,4 @@
-const Influx = require("node-influx");
+const Influx = require("influx");
 
 const influx = new Influx.InfluxDB({
   database: "metrics",

@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "node-influx": "^1.0.2"
+    "influx": "5.4.2"
   }
 }
